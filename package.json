@@ -8,7 +8,7 @@
     "start": "npm run build && node dist/server/index.js",
     "build": "webpack"
   },
-  "author": "",
+  "author": "webrgp",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
